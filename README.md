@@ -19,21 +19,8 @@ A full-stack laundry service app with a modern UI. Built with React and TypeScri
 
 ---
 
-## 🏫 CST College Website
 
-> Want to see how a full college homepage is structured in pure HTML/CSS/JS? Here.
-
-No frameworks, no libraries. Just solid vanilla web fundamentals — responsive layout, navigation, sections, the works. Good reference if you're learning or need a starting point.
-
-- 🔗 **[Explore the code](https://github.com/upendradungana/CST-College-Web-using-HTML-CSS-JS)**
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-
----
-
-## ✅ Task Manager
+## ✅ Task Manager -- not complete but can be worked on it to improve it
 
 > Just need a clean task management UI? Use this one.
 
